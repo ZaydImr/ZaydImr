@@ -3,8 +3,8 @@
 <br />
 
 ### I'm a Fullstack developer :)
-- 🌱 I'm currently learning everything that have relation with <strong>Java</strong> ( <strong>JEE</strong>  <img src="https://img.icons8.com/color/24/undefined/java-coffee-cup-logo--v1.png"/> + <strong>Spring boot</strong>  <img src="https://img.icons8.com/color/24/undefined/spring-logo.png"/> ) / <strong>Angular <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></strong> 
-- 💻 while working with ( <strong>.NET</strong> <img src="https://img.icons8.com/color/24/undefined/c-sharp-logo.png"/> + <strong>AngularJS</strong> <img src="https://img.icons8.com/color/24/undefined/angularjs.png"/> )
+- 🌱 I'm currently learning everything that have relation with <strong>.NET Core 7</strong> ( <strong>C# 11</strong>  <img src="https://img.icons8.com/color/24/undefined/c-sharp-logo.png"/> + <strong>EF 6</strong> ) / <strong>Angular 14 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></strong> 
+- 💻 while working with ( <strong>.NET MVC / .NET Web API</strong> <img src="https://img.icons8.com/color/24/undefined/c-sharp-logo.png"/> + <strong>Angular</strong> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/> )
 <br/>
 
 ### Connect with me:
