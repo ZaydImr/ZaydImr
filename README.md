@@ -7,6 +7,10 @@
 - 💻 while working with ( <strong>.NET MVC / .NET Web API</strong> <img src="https://img.icons8.com/color/24/undefined/c-sharp-logo.png"/> + <strong>Angular</strong> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/> )
 <br/>
 
+
+### My own packages:
+- https://www.npmjs.com/~zaydimr
+
 ### Connect with me:
 [<img align="left" alt="zayd-elimrani | HackerRank" width="35px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" />][HackerRank]
 [<img align="left" alt="zayd-elimrani | LinkedIn" width="35px" src="https://img.icons8.com/color/48/ffffff/linkedin.png"/>][linkedin]
