@@ -1,10 +1,19 @@
-### Hi there , I'm Zayd EL IMRANI, I'm a Fullstack developer :)
-- 🌱 Learning <strong>.NET Core 8</strong> ( <strong>C# 11</strong>  <img src="https://img.icons8.com/color/24/undefined/c-sharp-logo.png"/> + <strong>EF 8</strong> ) / <strong>Angular 17 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></strong> / Microservices <img src="https://img.icons8.com/?size=24&id=DHbACKviPosX&format=png"/></strong>
+### Hi there , I'm a Zayd :)
 
-- 💻 Working with <strong>.NET Core 6</strong> ( <strong>C# 11</strong>  <img src="https://img.icons8.com/color/24/undefined/c-sharp-logo.png"/> + <strong>EF 6</strong> ) / <strong>Angular 14 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></strong> / <strong>Oracle <img src="https://img.icons8.com/?size=24&id=39913&format=png"/></strong> - <strong>PostgreSQL <img src="https://img.icons8.com/?size=24&id=JRnxU7ZWP4mi&format=png"/></strong> / Docker <img src="https://img.icons8.com/?size=24&id=22813&format=png"/></strong>
+---
 
+Cloud Solution Architect at <strong>Microsoft</strong>, with roots in full-stack development (C#/.NET & Angular).  
+Specialized in DevOps, microservices, containerization (Docker, Kubernetes), and CI/CD automation (Azure DevOps, GitHub Actions).  
+Passionate about building secure, scalable, and maintainable business applications.  
 
-<br/>
+Always learning 🌱 and integrating best practices to deliver sustainable, high-quality solutions.  
+
+---
+💻 Main Tech Stack
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="angular logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="angular logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="angular logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" />
+
+---
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaydimr&layout=compact" alt="Zayd EL IMRANI's most used langs"/></div>
 <div align="center">
@@ -14,11 +23,3 @@
 -   Linkedin : https://www.linkedin.com/in/zaydimr/
 -   HackerRank : https://www.hackerrank.com/Zaydimr
 -   Own packages : [npm](https://www.npmjs.com/~zaydimr)
-
-#### Connect with me:
-[<img align="left" alt="zayd-elimrani | Instagram" width="35px" src="https://img.icons8.com/fluency/48/ffffff/instagram-new.png" />][instagram]
-[<img align="left" alt="zayd-elimrani | Email" width="35px" src="https://img.icons8.com/fluency/48/ffffff/new-post.png" />][Gmail]
-
-
-[instagram]: https://www.instagram.com/zayd.imr/
-[Gmail]: mailto:elimrani.z@gmail.com 
