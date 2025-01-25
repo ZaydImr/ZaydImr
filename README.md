@@ -1,4 +1,4 @@
-### Hi there , I'm a Zayd :)
+### Hi there , I'm Zayd :)
 
 ---
 
