@@ -19,6 +19,8 @@ Always learning 🌱 and integrating best practices to deliver sustainable, high
 <div align="center">
 </div>
 
+---
+
 -   Portfolio : [zaydimr.me](https://zaydimr.me/)
 -   Linkedin : https://www.linkedin.com/in/zaydimr/
 -   HackerRank : https://www.hackerrank.com/Zaydimr
