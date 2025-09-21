@@ -21,7 +21,7 @@ Always learning 🌱 and integrating best practices to deliver sustainable, high
 
 ---
 
--   Portfolio : [zaydimr.me](https://zaydimr.me/)
+-   Portfolio : [zayd.ma](https://zayd.ma/)
 -   Linkedin : https://www.linkedin.com/in/zaydimr/
 -   HackerRank : https://www.hackerrank.com/Zaydimr
 -   Own packages : [npm](https://www.npmjs.com/~zaydimr)
